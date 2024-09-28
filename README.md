@@ -35,7 +35,8 @@ This project is for managing events, built using Node.js, Express, and MongoDB. 
 
 POSTMAN API json output -->   ![image](https://github.com/user-attachments/assets/894b2a45-f2e6-4218-8e96-0720bad8f40c)
 
-events adding page -->        ![image](https://github.com/user-attachments/assets/e1fd6592-05e5-4fae-b1e2-67e2fd8822eb)
+events adding page -->       ![image](https://github.com/user-attachments/assets/874c575d-9c25-4246-a739-69b9b35140a4)
+
 
 Api/events page -->           ![image](https://github.com/user-attachments/assets/d4385f42-2c60-434c-adcd-5c887f849706)
 
