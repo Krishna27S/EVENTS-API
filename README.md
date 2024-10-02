@@ -1,5 +1,8 @@
 **Event Management API (CRUD Operations)**
 
+
+TO RUN THE SERVER --> npx nodemon index.js
+
 This project is for managing events, built using Node.js, Express, and MongoDB. The API allows users to perform CRUD (Create, Read, Update, Delete) operations on events, following a clean and scalable architecture based on the MVC pattern. The goal is to provide an easy-to-use backend service for event management, which can be expanded with additional features like authentication or event categorization.
 
 **Key Features:**
@@ -36,7 +39,13 @@ This project is for managing events, built using Node.js, Express, and MongoDB. 
 POSTMAN API json output -->   ![image](https://github.com/user-attachments/assets/8aa058ec-98f1-4879-8da4-5e12b487f978)
 
 
-events adding page -->       ![image](https://github.com/user-attachments/assets/33a93931-8b9a-4eed-bce8-61b9f88066b7)
+events adding page -->       ![image](https://github.com/user-attachments/assets/fe576485-ff5a-4bee-8d31-e17efcf7b71b)
+
+                          
+
+![image](https://github.com/user-attachments/assets/7098b6f2-87fd-4e76-84f3-4f685339492b)
+
+
 
 
 
