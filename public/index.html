@@ -4,10 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kzilla Event Management</title>
-    <!-- Link to external CSS file -->
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <div class="shapes">
+        <div class="shape circle"></div>
+        <div class="shape square"></div>
+        <div class="shape triangle"></div>
+        <div class="shape circle"></div>
+        <div class="shape square"></div>
+    </div>
+
     <img src="SRMKZILLA.png" alt="Header Image" class="header-image">
     <div class="container">
         <img src="kzillalogo2.png" alt="Kzilla Logo" class="logo">
@@ -15,10 +22,18 @@
         <h1>Kzilla Event Management</h1>
         
         <form id="event-form">
-            <input type="text" id="name" placeholder="Event Name" required>
-            <input type="text" id="location" placeholder="Location" required>
-            <input type="datetime-local" id="time" required>
-            <textarea id="description" placeholder="Description"></textarea>
+            <div class="input-container">
+                <input type="text" id="name" placeholder="Event Name" required>
+            </div>
+            <div class="input-container">
+                <input type="text" id="location" placeholder="Location" required>
+            </div>
+            <div class="input-container">
+                <input type="datetime-local" id="time" required>
+            </div>
+            <div class="input-container">
+                <textarea id="description" placeholder="Description"></textarea>
+            </div>
             <button type="submit">Create Event</button>
         </form>
 
